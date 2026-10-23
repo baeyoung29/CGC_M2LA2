@@ -7,7 +7,7 @@ const PARTICLE_SPREAD = 600;
 const PARTICLE_FALL_SPEED = 0.9;
 const COLOR_CHANGE_INTERVAL_MS = 3000;
 const PARTICLE_COLORS = [0xffb6c1, 0x87cefa, 0x98fb98, 0xffd700, 0xdda0dd];
-const FIRST_NAME = "YourFirstName";
+const FIRST_NAME = "Kris";
 
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(
